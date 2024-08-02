@@ -1,0 +1,9 @@
+# Fichiers spécifiques
+config.dart
+.env
+package-lock.json
+server.json
+
+# Dossiers
+/dist/
+/node_modules/
